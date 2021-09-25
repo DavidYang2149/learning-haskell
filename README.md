@@ -1,3 +1,3 @@
 # Learning Haskell
 
-하스켈 공부하기
+하스켈 서적 읽고 공부하기
